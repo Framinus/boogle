@@ -1,0 +1,14 @@
+{
+  "name": "boogle",
+  "version": "1.0.0",
+  "description": "an html and css mockup to test my skills",
+  "main": "home-page.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "boogle"
+  ],
+  "author": "James McCormack",
+  "license": "ISC"
+}
