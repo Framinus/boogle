@@ -1,0 +1,91 @@
+body {
+  background-color: white;
+  color: black;
+}
+
+a {
+  color: blue;
+}
+
+a:visited {
+  color: red;
+}
+
+button {
+  background-color: #E1DFDF;
+  color: #6A6565;
+  font-size: 14px;
+  height: 30px;
+  margin: 2px;
+  width: 150px;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: center;
+}
+
+.navbar-left {
+  justify-content: space-between;
+  margin-right: auto;
+}
+
+.navbar-right {
+  justify-content: space-between;
+  margin-left: auto;
+}
+
+.boogle {
+  align-items: center;
+  display: flex;
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+  justify-content: center;
+  margin-top: 150px;
+}
+
+.searchbarline {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5px;
+  margin-top: 2px;
+}
+
+.fakespace {
+  flex: 1;
+  margin-right: auto;
+}
+
+.searchbar {
+  border-style: solid;
+  border-width:thin;
+  box-shadow: 0 3px 3px 0 grey;
+  flex: initial;
+  height: 20px;
+  margin-bottom: 10px;
+  width: 50%;
+}
+
+.prefs {
+  flex: 1;
+  font-size: 8px;
+  margin-left: 5px;
+}
+
+.searchbuttons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 320px;
+}
+
+.copyright {
+  display: flex;
+  font-size: 10px;
+  justify-content: center;
+}
