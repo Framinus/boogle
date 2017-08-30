@@ -23,6 +23,7 @@ button {
 .navbar-container {
   display: flex;
   justify-content: center;
+  height: 10vh;
 }
 
 .navbar-left {
@@ -33,6 +34,10 @@ button {
 .navbar-right {
   justify-content: space-between;
   margin-left: auto;
+}
+
+.content {
+  height: 50vh;
 }
 
 .boogle {
@@ -81,7 +86,6 @@ button {
 .footer {
   display: flex;
   justify-content: center;
-  margin-top: 320px;
 }
 
 .copyright {
